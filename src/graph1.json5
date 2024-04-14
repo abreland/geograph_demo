@@ -1,0 +1,64 @@
+{
+ // "container": document.getElementById('cy'),
+  "elements": [
+    {
+
+      "data": {
+        "id": "a",
+        "longitude": -122.4175,
+        "latitude": 37.655,
+        "type": "node"
+      }
+    },
+    {
+      "data": {
+        "id": "b",
+        "longitude": -122.4175,
+        "latitude": 37.659,
+        "type": "node"
+      }
+    },
+    {
+      "data": {
+        "id": "ab",
+        "source": "a",
+        "target": "b",
+        "type": "edge"
+      }
+    }
+  ],
+  "style": [
+    {
+      "selector": "node",
+      "style": {
+        "background-color": "#0000FF",
+        "label": "data(type)",
+        'width': '60px',
+        'height': '60px',
+        'content': 'data(id)',
+        'pie-size': '100%',
+        'pie-1-background-color': '#E8747C',
+        'pie-1-background-size': '6',
+        'pie-2-background-color': '#74CBE8',
+        'pie-2-background-size': '6',
+        'pie-3-background-color': '#74E883',
+        'pie-3-background-size': '4'
+      }
+    },
+    {
+      "selector": "edge",
+      "style": {
+        "width": 3,
+        "line-color": "#ccc",
+        "target-arrow-color": "#ccc",
+        "target-arrow-shape": "triangle",
+        "curve-style": "bezier"
+      }
+    }
+  ],
+  "layout": {
+    "name": "grid",
+    "rows": 1
+  },
+  "zoomingEnabled": false
+}

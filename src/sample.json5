@@ -1,0 +1,5950 @@
+{
+    "elements": [
+        {
+            "data": {
+                "id": 0,
+                "longitude": -110.1386,
+                "latitude": 33.995400000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 0,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 1,
+                "longitude": -105.1982,
+                "latitude": 34.6807,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 1,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 2,
+                "longitude": -119.189,
+                "latitude": 36.4504,
+                "type": "node",
+                "state": "California",
+                "num": 2,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 3,
+                "longitude": -116.228,
+                "latitude": 38.966499999999996,
+                "type": "node",
+                "state": "Nevada",
+                "num": 3,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 4,
+                "longitude": -111.7278,
+                "latitude": 33.9812,
+                "type": "node",
+                "state": "Arizona",
+                "num": 4,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 5,
+                "longitude": -105.3896,
+                "latitude": 34.7216,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 5,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 6,
+                "longitude": -119.4391,
+                "latitude": 37.300200000000004,
+                "type": "node",
+                "state": "California",
+                "num": 6,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 7,
+                "longitude": -117.3055,
+                "latitude": 38.524699999999996,
+                "type": "node",
+                "state": "Nevada",
+                "num": 7,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 8,
+                "longitude": -110.108,
+                "latitude": 33.8656,
+                "type": "node",
+                "state": "Arizona",
+                "num": 8,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 9,
+                "longitude": -105.80199999999999,
+                "latitude": 34.741600000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 9,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 10,
+                "longitude": -120.5007,
+                "latitude": 35.950900000000004,
+                "type": "node",
+                "state": "California",
+                "num": 10,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 11,
+                "longitude": -117.2902,
+                "latitude": 38.9461,
+                "type": "node",
+                "state": "Nevada",
+                "num": 11,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 12,
+                "longitude": -111.688,
+                "latitude": 33.6482,
+                "type": "node",
+                "state": "Arizona",
+                "num": 12,
+                "age_group": "low",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 13,
+                "longitude": -105.57289999999999,
+                "latitude": 34.19070000000001,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 13,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 14,
+                "longitude": -119.9047,
+                "latitude": 36.158100000000005,
+                "type": "node",
+                "state": "California",
+                "num": 14,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 15,
+                "longitude": -116.84859999999999,
+                "latitude": 38.2968,
+                "type": "node",
+                "state": "Nevada",
+                "num": 15,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 16,
+                "longitude": -111.6682,
+                "latitude": 34.3429,
+                "type": "node",
+                "state": "Arizona",
+                "num": 16,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 17,
+                "longitude": -105.32639999999999,
+                "latitude": 35.831300000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 17,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 18,
+                "longitude": -120.0827,
+                "latitude": 37.005,
+                "type": "node",
+                "state": "California",
+                "num": 18,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 19,
+                "longitude": -117.0996,
+                "latitude": 38.702799999999996,
+                "type": "node",
+                "state": "Nevada",
+                "num": 19,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 20,
+                "longitude": -110.32509999999999,
+                "latitude": 33.1432,
+                "type": "node",
+                "state": "Arizona",
+                "num": 20,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 21,
+                "longitude": -104.8643,
+                "latitude": 34.566500000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 21,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 22,
+                "longitude": -118.6244,
+                "latitude": 37.1661,
+                "type": "node",
+                "state": "California",
+                "num": 22,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 23,
+                "longitude": -116.0728,
+                "latitude": 39.1003,
+                "type": "node",
+                "state": "Nevada",
+                "num": 23,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 24,
+                "longitude": -111.1311,
+                "latitude": 34.772600000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 24,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 25,
+                "longitude": -105.1124,
+                "latitude": 35.1428,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 25,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 26,
+                "longitude": -119.44,
+                "latitude": 35.3791,
+                "type": "node",
+                "state": "California",
+                "num": 26,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 27,
+                "longitude": -115.9977,
+                "latitude": 38.912099999999995,
+                "type": "node",
+                "state": "Nevada",
+                "num": 27,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 28,
+                "longitude": -111.20139999999999,
+                "latitude": 33.192800000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 28,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 29,
+                "longitude": -105.3669,
+                "latitude": 34.4303,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 29,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 5,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 30,
+                "longitude": -119.7832,
+                "latitude": 36.4587,
+                "type": "node",
+                "state": "California",
+                "num": 30,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 31,
+                "longitude": -116.95219999999999,
+                "latitude": 38.4691,
+                "type": "node",
+                "state": "Nevada",
+                "num": 31,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 32,
+                "longitude": -111.6712,
+                "latitude": 34.3543,
+                "type": "node",
+                "state": "Arizona",
+                "num": 32,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 33,
+                "longitude": -104.6798,
+                "latitude": 34.2554,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 33,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 34,
+                "longitude": -119.6423,
+                "latitude": 35.4177,
+                "type": "node",
+                "state": "California",
+                "num": 34,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 35,
+                "longitude": -116.86999999999999,
+                "latitude": 38.6615,
+                "type": "node",
+                "state": "Nevada",
+                "num": 35,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 36,
+                "longitude": -111.33109999999999,
+                "latitude": 34.625,
+                "type": "node",
+                "state": "Arizona",
+                "num": 36,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 37,
+                "longitude": -104.93289999999999,
+                "latitude": 34.7914,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 37,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 38,
+                "longitude": -120.3288,
+                "latitude": 36.985,
+                "type": "node",
+                "state": "California",
+                "num": 38,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 39,
+                "longitude": -115.80969999999999,
+                "latitude": 38.567699999999995,
+                "type": "node",
+                "state": "Nevada",
+                "num": 39,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 40,
+                "longitude": -110.723,
+                "latitude": 33.2654,
+                "type": "node",
+                "state": "Arizona",
+                "num": 40,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 41,
+                "longitude": -105.0075,
+                "latitude": 35.353500000000004,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 41,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 42,
+                "longitude": -120.56099999999999,
+                "latitude": 35.7229,
+                "type": "node",
+                "state": "California",
+                "num": 42,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 43,
+                "longitude": -116.0929,
+                "latitude": 39.550999999999995,
+                "type": "node",
+                "state": "Nevada",
+                "num": 43,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 44,
+                "longitude": -110.3516,
+                "latitude": 33.966800000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 44,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 45,
+                "longitude": -105.8205,
+                "latitude": 35.134600000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 45,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 46,
+                "longitude": -120.1381,
+                "latitude": 36.8699,
+                "type": "node",
+                "state": "California",
+                "num": 46,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 47,
+                "longitude": -115.68509999999999,
+                "latitude": 38.3407,
+                "type": "node",
+                "state": "Nevada",
+                "num": 47,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 48,
+                "longitude": -111.9827,
+                "latitude": 33.150000000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 48,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 49,
+                "longitude": -104.36569999999999,
+                "latitude": 34.072300000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 49,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 50,
+                "longitude": -118.6378,
+                "latitude": 35.3412,
+                "type": "node",
+                "state": "California",
+                "num": 50,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 51,
+                "longitude": -117.1664,
+                "latitude": 39.707499999999996,
+                "type": "node",
+                "state": "Nevada",
+                "num": 51,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 52,
+                "longitude": -111.4502,
+                "latitude": 34.247400000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 52,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 53,
+                "longitude": -104.6291,
+                "latitude": 34.348400000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 53,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 54,
+                "longitude": -118.7202,
+                "latitude": 35.557,
+                "type": "node",
+                "state": "California",
+                "num": 54,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 55,
+                "longitude": -116.4503,
+                "latitude": 39.2048,
+                "type": "node",
+                "state": "Nevada",
+                "num": 55,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 56,
+                "longitude": -110.215,
+                "latitude": 34.5758,
+                "type": "node",
+                "state": "Arizona",
+                "num": 56,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 57,
+                "longitude": -105.8497,
+                "latitude": 35.187900000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 57,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 58,
+                "longitude": -118.89189999999999,
+                "latitude": 36.7875,
+                "type": "node",
+                "state": "California",
+                "num": 58,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 59,
+                "longitude": -116.80279999999999,
+                "latitude": 39.4797,
+                "type": "node",
+                "state": "Nevada",
+                "num": 59,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 60,
+                "longitude": -110.2664,
+                "latitude": 34.8887,
+                "type": "node",
+                "state": "Arizona",
+                "num": 60,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 61,
+                "longitude": -104.6549,
+                "latitude": 34.7777,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 61,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 62,
+                "longitude": -120.0321,
+                "latitude": 35.893100000000004,
+                "type": "node",
+                "state": "California",
+                "num": 62,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 63,
+                "longitude": -117.2303,
+                "latitude": 39.5841,
+                "type": "node",
+                "state": "Nevada",
+                "num": 63,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 64,
+                "longitude": -110.6704,
+                "latitude": 34.9024,
+                "type": "node",
+                "state": "Arizona",
+                "num": 64,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 65,
+                "longitude": -104.5602,
+                "latitude": 35.823600000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 65,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 66,
+                "longitude": -119.4089,
+                "latitude": 36.669200000000004,
+                "type": "node",
+                "state": "California",
+                "num": 66,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 67,
+                "longitude": -117.2458,
+                "latitude": 37.999199999999995,
+                "type": "node",
+                "state": "Nevada",
+                "num": 67,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 68,
+                "longitude": -110.1319,
+                "latitude": 34.771300000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 68,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 69,
+                "longitude": -105.3899,
+                "latitude": 35.386900000000004,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 69,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 70,
+                "longitude": -118.9876,
+                "latitude": 35.347100000000005,
+                "type": "node",
+                "state": "California",
+                "num": 70,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 71,
+                "longitude": -117.3868,
+                "latitude": 38.1202,
+                "type": "node",
+                "state": "Nevada",
+                "num": 71,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 72,
+                "longitude": -110.1399,
+                "latitude": 33.673700000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 72,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 73,
+                "longitude": -104.3603,
+                "latitude": 34.293200000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 73,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 74,
+                "longitude": -119.977,
+                "latitude": 35.5267,
+                "type": "node",
+                "state": "California",
+                "num": 74,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 75,
+                "longitude": -117.3976,
+                "latitude": 38.815,
+                "type": "node",
+                "state": "Nevada",
+                "num": 75,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 76,
+                "longitude": -110.812,
+                "latitude": 34.71510000000001,
+                "type": "node",
+                "state": "Arizona",
+                "num": 76,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 5,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 77,
+                "longitude": -104.6865,
+                "latitude": 35.4054,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 77,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 78,
+                "longitude": -119.5059,
+                "latitude": 36.8659,
+                "type": "node",
+                "state": "California",
+                "num": 78,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 79,
+                "longitude": -116.48899999999999,
+                "latitude": 38.841699999999996,
+                "type": "node",
+                "state": "Nevada",
+                "num": 79,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 80,
+                "longitude": -110.8766,
+                "latitude": 33.1124,
+                "type": "node",
+                "state": "Arizona",
+                "num": 80,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 81,
+                "longitude": -105.3788,
+                "latitude": 33.9864,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 81,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 82,
+                "longitude": -119.8593,
+                "latitude": 35.8209,
+                "type": "node",
+                "state": "California",
+                "num": 82,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 83,
+                "longitude": -116.9344,
+                "latitude": 38.4967,
+                "type": "node",
+                "state": "Nevada",
+                "num": 83,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 84,
+                "longitude": -110.5879,
+                "latitude": 33.9485,
+                "type": "node",
+                "state": "Arizona",
+                "num": 84,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 85,
+                "longitude": -105.3959,
+                "latitude": 34.2674,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 85,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 86,
+                "longitude": -118.7198,
+                "latitude": 35.458800000000004,
+                "type": "node",
+                "state": "California",
+                "num": 86,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 87,
+                "longitude": -115.729,
+                "latitude": 38.7487,
+                "type": "node",
+                "state": "Nevada",
+                "num": 87,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 88,
+                "longitude": -110.2405,
+                "latitude": 33.333400000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 88,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 89,
+                "longitude": -104.14229999999999,
+                "latitude": 34.5221,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 89,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 90,
+                "longitude": -120.4423,
+                "latitude": 36.2271,
+                "type": "node",
+                "state": "California",
+                "num": 90,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 91,
+                "longitude": -116.2795,
+                "latitude": 38.2117,
+                "type": "node",
+                "state": "Nevada",
+                "num": 91,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 92,
+                "longitude": -110.5332,
+                "latitude": 34.822700000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 92,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 93,
+                "longitude": -105.5084,
+                "latitude": 34.691300000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 93,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 94,
+                "longitude": -119.9272,
+                "latitude": 35.8568,
+                "type": "node",
+                "state": "California",
+                "num": 94,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 95,
+                "longitude": -115.84729999999999,
+                "latitude": 38.8656,
+                "type": "node",
+                "state": "Nevada",
+                "num": 95,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 96,
+                "longitude": -111.4136,
+                "latitude": 33.76090000000001,
+                "type": "node",
+                "state": "Arizona",
+                "num": 96,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 97,
+                "longitude": -105.87559999999999,
+                "latitude": 34.694300000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 97,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 98,
+                "longitude": -119.6984,
+                "latitude": 35.3506,
+                "type": "node",
+                "state": "California",
+                "num": 98,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 99,
+                "longitude": -116.4468,
+                "latitude": 38.8226,
+                "type": "node",
+                "state": "Nevada",
+                "num": 99,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 100,
+                "longitude": -110.26559999999999,
+                "latitude": 33.750600000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 100,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 101,
+                "longitude": -105.99709999999999,
+                "latitude": 35.859700000000004,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 101,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 102,
+                "longitude": -119.2417,
+                "latitude": 36.6574,
+                "type": "node",
+                "state": "California",
+                "num": 102,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 103,
+                "longitude": -111.0915,
+                "latitude": 34.6867,
+                "type": "node",
+                "state": "Arizona",
+                "num": 103,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 104,
+                "longitude": -105.077,
+                "latitude": 35.5189,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 104,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 105,
+                "longitude": -119.0455,
+                "latitude": 37.2963,
+                "type": "node",
+                "state": "California",
+                "num": 105,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 106,
+                "longitude": -111.9173,
+                "latitude": 33.4966,
+                "type": "node",
+                "state": "Arizona",
+                "num": 106,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 107,
+                "longitude": -105.34819999999999,
+                "latitude": 34.192400000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 107,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 108,
+                "longitude": -120.1887,
+                "latitude": 36.4294,
+                "type": "node",
+                "state": "California",
+                "num": 108,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 109,
+                "longitude": -110.1313,
+                "latitude": 33.203100000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 109,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 110,
+                "longitude": -105.92559999999999,
+                "latitude": 34.3209,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 110,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 111,
+                "longitude": -119.9013,
+                "latitude": 35.832100000000004,
+                "type": "node",
+                "state": "California",
+                "num": 111,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 112,
+                "longitude": -111.9863,
+                "latitude": 33.421800000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 112,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 113,
+                "longitude": -104.6969,
+                "latitude": 35.6572,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 113,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 114,
+                "longitude": -120.4364,
+                "latitude": 36.9515,
+                "type": "node",
+                "state": "California",
+                "num": 114,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 115,
+                "longitude": -111.6865,
+                "latitude": 33.941500000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 115,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 116,
+                "longitude": -105.8344,
+                "latitude": 35.3412,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 116,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 117,
+                "longitude": -119.2365,
+                "latitude": 36.2795,
+                "type": "node",
+                "state": "California",
+                "num": 117,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 118,
+                "longitude": -110.2856,
+                "latitude": 34.540800000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 118,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 119,
+                "longitude": -105.2828,
+                "latitude": 33.977000000000004,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 119,
+                "age_group": "low",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 120,
+                "longitude": -120.1714,
+                "latitude": 36.2076,
+                "type": "node",
+                "state": "California",
+                "num": 120,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 121,
+                "longitude": -110.97409999999999,
+                "latitude": 34.326,
+                "type": "node",
+                "state": "Arizona",
+                "num": 121,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 122,
+                "longitude": -105.378,
+                "latitude": 34.131800000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 122,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 123,
+                "longitude": -118.9305,
+                "latitude": 35.8173,
+                "type": "node",
+                "state": "California",
+                "num": 123,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 124,
+                "longitude": -110.1649,
+                "latitude": 34.1053,
+                "type": "node",
+                "state": "Arizona",
+                "num": 124,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 125,
+                "longitude": -105.8591,
+                "latitude": 35.847100000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 125,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 126,
+                "longitude": -119.4036,
+                "latitude": 35.511700000000005,
+                "type": "node",
+                "state": "California",
+                "num": 126,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 127,
+                "longitude": -111.3171,
+                "latitude": 33.123200000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 127,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 128,
+                "longitude": -105.7389,
+                "latitude": 35.7252,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 128,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 129,
+                "longitude": -119.0118,
+                "latitude": 37.019800000000004,
+                "type": "node",
+                "state": "California",
+                "num": 129,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 130,
+                "longitude": -110.2863,
+                "latitude": 34.431200000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 130,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 131,
+                "longitude": -105.41239999999999,
+                "latitude": 34.5367,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 131,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 132,
+                "longitude": -120.0056,
+                "latitude": 36.551300000000005,
+                "type": "node",
+                "state": "California",
+                "num": 132,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 133,
+                "longitude": -110.3186,
+                "latitude": 33.7565,
+                "type": "node",
+                "state": "Arizona",
+                "num": 133,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 134,
+                "longitude": -104.1544,
+                "latitude": 34.916500000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 134,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 135,
+                "longitude": -119.619,
+                "latitude": 36.6377,
+                "type": "node",
+                "state": "California",
+                "num": 135,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 136,
+                "longitude": -110.3659,
+                "latitude": 35.0422,
+                "type": "node",
+                "state": "Arizona",
+                "num": 136,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 137,
+                "longitude": -104.97919999999999,
+                "latitude": 35.75,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 137,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 138,
+                "longitude": -120.3978,
+                "latitude": 35.9027,
+                "type": "node",
+                "state": "California",
+                "num": 138,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 139,
+                "longitude": -111.9284,
+                "latitude": 33.1693,
+                "type": "node",
+                "state": "Arizona",
+                "num": 139,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 140,
+                "longitude": -105.8535,
+                "latitude": 33.973200000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 140,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 141,
+                "longitude": -120.2679,
+                "latitude": 35.348800000000004,
+                "type": "node",
+                "state": "California",
+                "num": 141,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 142,
+                "longitude": -111.9495,
+                "latitude": 34.203700000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 142,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 143,
+                "longitude": -104.6263,
+                "latitude": 34.811600000000006,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 143,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 144,
+                "longitude": -118.8263,
+                "latitude": 35.423300000000005,
+                "type": "node",
+                "state": "California",
+                "num": 144,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 145,
+                "longitude": -110.84909999999999,
+                "latitude": 34.584900000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 145,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 146,
+                "longitude": -104.86829999999999,
+                "latitude": 35.6567,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 146,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 147,
+                "longitude": -120.0399,
+                "latitude": 37.1225,
+                "type": "node",
+                "state": "California",
+                "num": 147,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 148,
+                "longitude": -111.25319999999999,
+                "latitude": 33.644000000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 148,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 149,
+                "longitude": -104.5649,
+                "latitude": 34.2924,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 149,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 150,
+                "longitude": -119.8678,
+                "latitude": 36.1456,
+                "type": "node",
+                "state": "California",
+                "num": 150,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 151,
+                "longitude": -111.5689,
+                "latitude": 33.4324,
+                "type": "node",
+                "state": "Arizona",
+                "num": 151,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 152,
+                "longitude": -104.6195,
+                "latitude": 35.271,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 152,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 153,
+                "longitude": -120.2688,
+                "latitude": 36.3283,
+                "type": "node",
+                "state": "California",
+                "num": 153,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 154,
+                "longitude": -110.4866,
+                "latitude": 33.569500000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 154,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 155,
+                "longitude": -105.1317,
+                "latitude": 34.4889,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 155,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 156,
+                "longitude": -118.6968,
+                "latitude": 36.9441,
+                "type": "node",
+                "state": "California",
+                "num": 156,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 157,
+                "longitude": -110.49119999999999,
+                "latitude": 33.7408,
+                "type": "node",
+                "state": "Arizona",
+                "num": 157,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 158,
+                "longitude": -104.06869999999999,
+                "latitude": 35.766200000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 158,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 159,
+                "longitude": -120.2305,
+                "latitude": 35.3966,
+                "type": "node",
+                "state": "California",
+                "num": 159,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 160,
+                "longitude": -110.261,
+                "latitude": 33.89,
+                "type": "node",
+                "state": "Arizona",
+                "num": 160,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 161,
+                "longitude": -104.9185,
+                "latitude": 35.7912,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 161,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 162,
+                "longitude": -120.5263,
+                "latitude": 35.9448,
+                "type": "node",
+                "state": "California",
+                "num": 162,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 163,
+                "longitude": -111.4614,
+                "latitude": 34.89190000000001,
+                "type": "node",
+                "state": "Arizona",
+                "num": 163,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 164,
+                "longitude": -105.52839999999999,
+                "latitude": 35.7218,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 164,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 165,
+                "longitude": -120.3633,
+                "latitude": 35.3896,
+                "type": "node",
+                "state": "California",
+                "num": 165,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 166,
+                "longitude": -111.4528,
+                "latitude": 34.2691,
+                "type": "node",
+                "state": "Arizona",
+                "num": 166,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 167,
+                "longitude": -105.213,
+                "latitude": 34.480900000000005,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 167,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 168,
+                "longitude": -120.3261,
+                "latitude": 36.7502,
+                "type": "node",
+                "state": "California",
+                "num": 168,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 169,
+                "longitude": -110.9593,
+                "latitude": 34.960800000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 169,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 170,
+                "longitude": -104.0893,
+                "latitude": 34.726800000000004,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 170,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 171,
+                "longitude": -120.0629,
+                "latitude": 37.130700000000004,
+                "type": "node",
+                "state": "California",
+                "num": 171,
+                "age_group": "low",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 172,
+                "longitude": -110.6081,
+                "latitude": 34.6694,
+                "type": "node",
+                "state": "Arizona",
+                "num": 172,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 173,
+                "longitude": -105.6355,
+                "latitude": 34.0375,
+                "type": "node",
+                "state": "New Mexico",
+                "num": 173,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 174,
+                "longitude": -120.0426,
+                "latitude": 35.4369,
+                "type": "node",
+                "state": "California",
+                "num": 174,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 175,
+                "longitude": -111.3092,
+                "latitude": 34.772600000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 175,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 176,
+                "longitude": -110.30799999999999,
+                "latitude": 34.976000000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 176,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 177,
+                "longitude": -111.3473,
+                "latitude": 34.9498,
+                "type": "node",
+                "state": "Arizona",
+                "num": 177,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 178,
+                "longitude": -111.67099999999999,
+                "latitude": 33.925700000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 178,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 179,
+                "longitude": -111.4156,
+                "latitude": 33.7877,
+                "type": "node",
+                "state": "Arizona",
+                "num": 179,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 180,
+                "longitude": -110.8766,
+                "latitude": 33.57790000000001,
+                "type": "node",
+                "state": "Arizona",
+                "num": 180,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 181,
+                "longitude": -111.39359999999999,
+                "latitude": 34.290600000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 181,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 182,
+                "longitude": -111.0513,
+                "latitude": 33.6193,
+                "type": "node",
+                "state": "Arizona",
+                "num": 182,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 183,
+                "longitude": -110.94,
+                "latitude": 34.691100000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 183,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 184,
+                "longitude": -110.1101,
+                "latitude": 33.5972,
+                "type": "node",
+                "state": "Arizona",
+                "num": 184,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 185,
+                "longitude": -111.01899999999999,
+                "latitude": 34.8866,
+                "type": "node",
+                "state": "Arizona",
+                "num": 185,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 186,
+                "longitude": -110.378,
+                "latitude": 34.4262,
+                "type": "node",
+                "state": "Arizona",
+                "num": 186,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 187,
+                "longitude": -110.1625,
+                "latitude": 34.6691,
+                "type": "node",
+                "state": "Arizona",
+                "num": 187,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 188,
+                "longitude": -110.8386,
+                "latitude": 33.465,
+                "type": "node",
+                "state": "Arizona",
+                "num": 188,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 189,
+                "longitude": -110.8483,
+                "latitude": 33.5653,
+                "type": "node",
+                "state": "Arizona",
+                "num": 189,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 190,
+                "longitude": -111.7509,
+                "latitude": 33.403600000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 190,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 191,
+                "longitude": -111.0095,
+                "latitude": 34.9842,
+                "type": "node",
+                "state": "Arizona",
+                "num": 191,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 192,
+                "longitude": -110.99849999999999,
+                "latitude": 33.4908,
+                "type": "node",
+                "state": "Arizona",
+                "num": 192,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 0,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 193,
+                "longitude": -110.5626,
+                "latitude": 33.5401,
+                "type": "node",
+                "state": "Arizona",
+                "num": 193,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 194,
+                "longitude": -111.73179999999999,
+                "latitude": 33.4251,
+                "type": "node",
+                "state": "Arizona",
+                "num": 194,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 195,
+                "longitude": -111.6358,
+                "latitude": 33.4686,
+                "type": "node",
+                "state": "Arizona",
+                "num": 195,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 196,
+                "longitude": -111.1227,
+                "latitude": 34.1608,
+                "type": "node",
+                "state": "Arizona",
+                "num": 196,
+                "age_group": "low",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 197,
+                "longitude": -111.3957,
+                "latitude": 35.0011,
+                "type": "node",
+                "state": "Arizona",
+                "num": 197,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 5,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 198,
+                "longitude": -110.5177,
+                "latitude": 33.4739,
+                "type": "node",
+                "state": "Arizona",
+                "num": 198,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 199,
+                "longitude": -110.697,
+                "latitude": 33.1464,
+                "type": "node",
+                "state": "Arizona",
+                "num": 199,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 200,
+                "longitude": -111.9736,
+                "latitude": 33.415000000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 200,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 201,
+                "longitude": -110.3731,
+                "latitude": 33.293600000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 201,
+                "age_group": "teen",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 202,
+                "longitude": -110.831,
+                "latitude": 34.2167,
+                "type": "node",
+                "state": "Arizona",
+                "num": 202,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 203,
+                "longitude": -110.9352,
+                "latitude": 34.1525,
+                "type": "node",
+                "state": "Arizona",
+                "num": 203,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 204,
+                "longitude": -110.3168,
+                "latitude": 34.655100000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 204,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 205,
+                "longitude": -111.8658,
+                "latitude": 33.361000000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 205,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 206,
+                "longitude": -111.0253,
+                "latitude": 33.479600000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 206,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 207,
+                "longitude": -110.1884,
+                "latitude": 33.5707,
+                "type": "node",
+                "state": "Arizona",
+                "num": 207,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 208,
+                "longitude": -110.45,
+                "latitude": 33.3361,
+                "type": "node",
+                "state": "Arizona",
+                "num": 208,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 209,
+                "longitude": -110.29939999999999,
+                "latitude": 33.8006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 209,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 210,
+                "longitude": -111.1201,
+                "latitude": 33.9153,
+                "type": "node",
+                "state": "Arizona",
+                "num": 210,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 211,
+                "longitude": -110.1991,
+                "latitude": 34.743,
+                "type": "node",
+                "state": "Arizona",
+                "num": 211,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 212,
+                "longitude": -110.4018,
+                "latitude": 34.1754,
+                "type": "node",
+                "state": "Arizona",
+                "num": 212,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 213,
+                "longitude": -111.5538,
+                "latitude": 34.7419,
+                "type": "node",
+                "state": "Arizona",
+                "num": 213,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 214,
+                "longitude": -110.2632,
+                "latitude": 33.4354,
+                "type": "node",
+                "state": "Arizona",
+                "num": 214,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 215,
+                "longitude": -111.2749,
+                "latitude": 33.302200000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 215,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 216,
+                "longitude": -111.3459,
+                "latitude": 34.4311,
+                "type": "node",
+                "state": "Arizona",
+                "num": 216,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 217,
+                "longitude": -110.17399999999999,
+                "latitude": 33.666700000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 217,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 218,
+                "longitude": -110.3168,
+                "latitude": 33.249,
+                "type": "node",
+                "state": "Arizona",
+                "num": 218,
+                "age_group": "low",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 219,
+                "longitude": -111.1938,
+                "latitude": 33.1936,
+                "type": "node",
+                "state": "Arizona",
+                "num": 219,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 220,
+                "longitude": -111.7638,
+                "latitude": 33.2946,
+                "type": "node",
+                "state": "Arizona",
+                "num": 220,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 221,
+                "longitude": -111.8663,
+                "latitude": 33.268,
+                "type": "node",
+                "state": "Arizona",
+                "num": 221,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 222,
+                "longitude": -110.9657,
+                "latitude": 33.9761,
+                "type": "node",
+                "state": "Arizona",
+                "num": 222,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 223,
+                "longitude": -112.0479,
+                "latitude": 34.29750000000001,
+                "type": "node",
+                "state": "Arizona",
+                "num": 223,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 224,
+                "longitude": -110.6507,
+                "latitude": 35.0202,
+                "type": "node",
+                "state": "Arizona",
+                "num": 224,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 225,
+                "longitude": -110.25959999999999,
+                "latitude": 34.605500000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 225,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 226,
+                "longitude": -111.1451,
+                "latitude": 33.550900000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 226,
+                "age_group": "low",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 227,
+                "longitude": -111.4121,
+                "latitude": 34.806200000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 227,
+                "age_group": "adult",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 228,
+                "longitude": -111.12219999999999,
+                "latitude": 33.773,
+                "type": "node",
+                "state": "Arizona",
+                "num": 228,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 229,
+                "longitude": -111.4979,
+                "latitude": 34.619400000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 229,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 230,
+                "longitude": -110.7093,
+                "latitude": 34.3065,
+                "type": "node",
+                "state": "Arizona",
+                "num": 230,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 231,
+                "longitude": -111.9499,
+                "latitude": 33.8601,
+                "type": "node",
+                "state": "Arizona",
+                "num": 231,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 232,
+                "longitude": -110.1594,
+                "latitude": 34.78680000000001,
+                "type": "node",
+                "state": "Arizona",
+                "num": 232,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 6,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 233,
+                "longitude": -112.0358,
+                "latitude": 33.4731,
+                "type": "node",
+                "state": "Arizona",
+                "num": 233,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 234,
+                "longitude": -110.7206,
+                "latitude": 34.139500000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 234,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 235,
+                "longitude": -111.947,
+                "latitude": 34.046400000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 235,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 236,
+                "longitude": -110.8656,
+                "latitude": 33.1323,
+                "type": "node",
+                "state": "Arizona",
+                "num": 236,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 4,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 237,
+                "longitude": -111.6634,
+                "latitude": 33.2426,
+                "type": "node",
+                "state": "Arizona",
+                "num": 237,
+                "age_group": "teen",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 238,
+                "longitude": -110.8882,
+                "latitude": 34.325300000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 238,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 239,
+                "longitude": -111.02459999999999,
+                "latitude": 33.134600000000006,
+                "type": "node",
+                "state": "Arizona",
+                "num": 239,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 240,
+                "longitude": -111.901,
+                "latitude": 34.7413,
+                "type": "node",
+                "state": "Arizona",
+                "num": 240,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 241,
+                "longitude": -110.5358,
+                "latitude": 34.988600000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 241,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 242,
+                "longitude": -111.8001,
+                "latitude": 34.519800000000004,
+                "type": "node",
+                "state": "Arizona",
+                "num": 242,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 3,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 243,
+                "longitude": -110.7615,
+                "latitude": 33.302600000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 243,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 244,
+                "longitude": -110.5308,
+                "latitude": 33.6815,
+                "type": "node",
+                "state": "Arizona",
+                "num": 244,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 5,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 245,
+                "longitude": -110.19069999999999,
+                "latitude": 34.933800000000005,
+                "type": "node",
+                "state": "Arizona",
+                "num": 245,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "forest"
+            }
+        },
+        {
+            "data": {
+                "id": 246,
+                "longitude": -111.6167,
+                "latitude": 33.6501,
+                "type": "node",
+                "state": "Arizona",
+                "num": 246,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "desert"
+            }
+        },
+        {
+            "data": {
+                "id": 247,
+                "longitude": -111.675,
+                "latitude": 34.7862,
+                "type": "node",
+                "state": "Arizona",
+                "num": 247,
+                "age_group": "adult",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 1,
+                "vegetation": "grassland"
+            }
+        },
+        {
+            "data": {
+                "id": 248,
+                "longitude": -111.32979999999999,
+                "latitude": 34.9714,
+                "type": "node",
+                "state": "Arizona",
+                "num": 248,
+                "age_group": "elderly",
+                "dist_water": 1,
+                "dist_interstate": 100,
+                "edges": 1,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": 249,
+                "longitude": -110.7067,
+                "latitude": 33.0671,
+                "type": "node",
+                "state": "Arizona",
+                "num": 249,
+                "age_group": "elderly",
+                "dist_water": 100,
+                "dist_interstate": 1,
+                "edges": 2,
+                "vegetation": "urban"
+            }
+        },
+        {
+            "data": {
+                "id": "0_119",
+                "pair": "Arizona_New Mexico",
+                "source": 0,
+                "target": 119,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "1_61",
+                "pair": "New Mexico_New Mexico",
+                "source": 1,
+                "target": 61,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "2_46",
+                "pair": "California_California",
+                "source": 2,
+                "target": 46,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "3_83",
+                "pair": "Nevada_Nevada",
+                "source": 3,
+                "target": 83,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "4_106",
+                "pair": "Arizona_Arizona",
+                "source": 4,
+                "target": 106,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "5_137",
+                "pair": "New Mexico_New Mexico",
+                "source": 5,
+                "target": 137,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "6_74",
+                "pair": "California_California",
+                "source": 6,
+                "target": 74,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "7_99",
+                "pair": "Nevada_Nevada",
+                "source": 7,
+                "target": 99,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "8_241",
+                "pair": "Arizona_Arizona",
+                "source": 8,
+                "target": 241,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "9_3",
+                "pair": "New Mexico_Nevada",
+                "source": 9,
+                "target": 3,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "10_144",
+                "pair": "California_California",
+                "source": 10,
+                "target": 144,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "11_50",
+                "pair": "Nevada_California",
+                "source": 11,
+                "target": 50,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "12_214",
+                "pair": "Arizona_Arizona",
+                "source": 12,
+                "target": 214,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "13_83",
+                "pair": "New Mexico_Nevada",
+                "source": 13,
+                "target": 83,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "14_165",
+                "pair": "California_California",
+                "source": 14,
+                "target": 165,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "15_35",
+                "pair": "Nevada_Nevada",
+                "source": 15,
+                "target": 35,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "16_88",
+                "pair": "Arizona_Arizona",
+                "source": 16,
+                "target": 88,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "17_128",
+                "pair": "New Mexico_New Mexico",
+                "source": 17,
+                "target": 128,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "18_39",
+                "pair": "California_Nevada",
+                "source": 18,
+                "target": 39,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "19_71",
+                "pair": "Nevada_Nevada",
+                "source": 19,
+                "target": 71,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "20_163",
+                "pair": "Arizona_Arizona",
+                "source": 20,
+                "target": 163,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "21_53",
+                "pair": "New Mexico_New Mexico",
+                "source": 21,
+                "target": 53,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "22_35",
+                "pair": "California_Nevada",
+                "source": 22,
+                "target": 35,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "23_87",
+                "pair": "Nevada_Nevada",
+                "source": 23,
+                "target": 87,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "24_214",
+                "pair": "Arizona_Arizona",
+                "source": 24,
+                "target": 214,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "25_57",
+                "pair": "New Mexico_New Mexico",
+                "source": 25,
+                "target": 57,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "26_224",
+                "pair": "California_Arizona",
+                "source": 26,
+                "target": 224,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "27_75",
+                "pair": "Nevada_Nevada",
+                "source": 27,
+                "target": 75,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "28_56",
+                "pair": "Arizona_Arizona",
+                "source": 28,
+                "target": 56,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "29_122",
+                "pair": "New Mexico_New Mexico",
+                "source": 29,
+                "target": 122,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "30_94",
+                "pair": "California_California",
+                "source": 30,
+                "target": 94,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "31_55",
+                "pair": "Nevada_Nevada",
+                "source": 31,
+                "target": 55,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "32_76",
+                "pair": "Arizona_Arizona",
+                "source": 32,
+                "target": 76,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "33_146",
+                "pair": "New Mexico_New Mexico",
+                "source": 33,
+                "target": 146,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "34_1",
+                "pair": "California_New Mexico",
+                "source": 34,
+                "target": 1,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "36_206",
+                "pair": "Arizona_Arizona",
+                "source": 36,
+                "target": 206,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "37_143",
+                "pair": "New Mexico_New Mexico",
+                "source": 37,
+                "target": 143,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "38_78",
+                "pair": "California_California",
+                "source": 38,
+                "target": 78,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "39_22",
+                "pair": "Nevada_California",
+                "source": 39,
+                "target": 22,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "40_232",
+                "pair": "Arizona_Arizona",
+                "source": 40,
+                "target": 232,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "41_33",
+                "pair": "New Mexico_New Mexico",
+                "source": 41,
+                "target": 33,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "42_3",
+                "pair": "California_Nevada",
+                "source": 42,
+                "target": 3,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "43_75",
+                "pair": "Nevada_Nevada",
+                "source": 43,
+                "target": 75,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "44_96",
+                "pair": "Arizona_Arizona",
+                "source": 44,
+                "target": 96,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "45_61",
+                "pair": "New Mexico_New Mexico",
+                "source": 45,
+                "target": 61,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "46_94",
+                "pair": "California_California",
+                "source": 46,
+                "target": 94,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "48_195",
+                "pair": "Arizona_Arizona",
+                "source": 48,
+                "target": 195,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "49_41",
+                "pair": "New Mexico_New Mexico",
+                "source": 49,
+                "target": 41,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "50_165",
+                "pair": "California_California",
+                "source": 50,
+                "target": 165,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "51_111",
+                "pair": "Nevada_California",
+                "source": 51,
+                "target": 111,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "52_187",
+                "pair": "Arizona_Arizona",
+                "source": 52,
+                "target": 187,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "53_33",
+                "pair": "New Mexico_New Mexico",
+                "source": 53,
+                "target": 33,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "54_62",
+                "pair": "California_California",
+                "source": 54,
+                "target": 62,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "55_11",
+                "pair": "Nevada_Nevada",
+                "source": 55,
+                "target": 11,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "56_236",
+                "pair": "Arizona_Arizona",
+                "source": 56,
+                "target": 236,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "57_140",
+                "pair": "New Mexico_New Mexico",
+                "source": 57,
+                "target": 140,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "58_138",
+                "pair": "California_California",
+                "source": 58,
+                "target": 138,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "59_95",
+                "pair": "Nevada_Nevada",
+                "source": 59,
+                "target": 95,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "60_182",
+                "pair": "Arizona_Arizona",
+                "source": 60,
+                "target": 182,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "61_140",
+                "pair": "New Mexico_New Mexico",
+                "source": 61,
+                "target": 140,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "62_162",
+                "pair": "California_California",
+                "source": 62,
+                "target": 162,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "63_67",
+                "pair": "Nevada_Nevada",
+                "source": 63,
+                "target": 67,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "64_236",
+                "pair": "Arizona_Arizona",
+                "source": 64,
+                "target": 236,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "65_37",
+                "pair": "New Mexico_New Mexico",
+                "source": 65,
+                "target": 37,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "66_132",
+                "pair": "California_California",
+                "source": 66,
+                "target": 132,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "67_95",
+                "pair": "Nevada_Nevada",
+                "source": 67,
+                "target": 95,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "68_242",
+                "pair": "Arizona_Arizona",
+                "source": 68,
+                "target": 242,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "69_41",
+                "pair": "New Mexico_New Mexico",
+                "source": 69,
+                "target": 41,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "70_66",
+                "pair": "California_California",
+                "source": 70,
+                "target": 66,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "71_35",
+                "pair": "Nevada_Nevada",
+                "source": 71,
+                "target": 35,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "72_242",
+                "pair": "Arizona_Arizona",
+                "source": 72,
+                "target": 242,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "73_39",
+                "pair": "New Mexico_Nevada",
+                "source": 73,
+                "target": 39,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "74_21",
+                "pair": "California_New Mexico",
+                "source": 74,
+                "target": 21,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "75_79",
+                "pair": "Nevada_Nevada",
+                "source": 75,
+                "target": 79,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "76_185",
+                "pair": "Arizona_Arizona",
+                "source": 76,
+                "target": 185,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "77_164",
+                "pair": "New Mexico_New Mexico",
+                "source": 77,
+                "target": 164,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "78_117",
+                "pair": "California_California",
+                "source": 78,
+                "target": 117,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "79_3",
+                "pair": "Nevada_Nevada",
+                "source": 79,
+                "target": 3,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "80_56",
+                "pair": "Arizona_Arizona",
+                "source": 80,
+                "target": 56,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "81_152",
+                "pair": "New Mexico_New Mexico",
+                "source": 81,
+                "target": 152,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "82_171",
+                "pair": "California_California",
+                "source": 82,
+                "target": 171,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "83_59",
+                "pair": "Nevada_Nevada",
+                "source": 83,
+                "target": 59,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "84_183",
+                "pair": "Arizona_Arizona",
+                "source": 84,
+                "target": 183,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "85_97",
+                "pair": "New Mexico_New Mexico",
+                "source": 85,
+                "target": 97,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "86_111",
+                "pair": "California_California",
+                "source": 86,
+                "target": 111,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "87_47",
+                "pair": "Nevada_Nevada",
+                "source": 87,
+                "target": 47,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "88_0",
+                "pair": "Arizona_Arizona",
+                "source": 88,
+                "target": 0,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "89_128",
+                "pair": "New Mexico_New Mexico",
+                "source": 89,
+                "target": 128,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "90_14",
+                "pair": "California_California",
+                "source": 90,
+                "target": 14,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "91_43",
+                "pair": "Nevada_Nevada",
+                "source": 91,
+                "target": 43,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "92_5",
+                "pair": "Arizona_New Mexico",
+                "source": 92,
+                "target": 5,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "93_29",
+                "pair": "New Mexico_New Mexico",
+                "source": 93,
+                "target": 29,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "94_135",
+                "pair": "California_California",
+                "source": 94,
+                "target": 135,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "96_189",
+                "pair": "Arizona_Arizona",
+                "source": 96,
+                "target": 189,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "97_125",
+                "pair": "New Mexico_New Mexico",
+                "source": 97,
+                "target": 125,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "98_14",
+                "pair": "California_California",
+                "source": 98,
+                "target": 14,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "99_43",
+                "pair": "Nevada_Nevada",
+                "source": 99,
+                "target": 43,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "100_13",
+                "pair": "Arizona_New Mexico",
+                "source": 100,
+                "target": 13,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "101_134",
+                "pair": "New Mexico_New Mexico",
+                "source": 101,
+                "target": 134,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "102_114",
+                "pair": "California_California",
+                "source": 102,
+                "target": 114,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "103_244",
+                "pair": "Arizona_Arizona",
+                "source": 103,
+                "target": 244,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "104_146",
+                "pair": "New Mexico_New Mexico",
+                "source": 104,
+                "target": 146,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "105_111",
+                "pair": "California_California",
+                "source": 105,
+                "target": 111,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "107_161",
+                "pair": "New Mexico_New Mexico",
+                "source": 107,
+                "target": 161,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "108_82",
+                "pair": "California_California",
+                "source": 108,
+                "target": 82,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "109_124",
+                "pair": "Arizona_Arizona",
+                "source": 109,
+                "target": 124,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "110_125",
+                "pair": "New Mexico_New Mexico",
+                "source": 110,
+                "target": 125,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "111_66",
+                "pair": "California_California",
+                "source": 111,
+                "target": 66,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "112_139",
+                "pair": "Arizona_Arizona",
+                "source": 112,
+                "target": 139,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "113_152",
+                "pair": "New Mexico_New Mexico",
+                "source": 113,
+                "target": 152,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "114_121",
+                "pair": "California_Arizona",
+                "source": 114,
+                "target": 121,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "115_197",
+                "pair": "Arizona_Arizona",
+                "source": 115,
+                "target": 197,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "116_152",
+                "pair": "New Mexico_New Mexico",
+                "source": 116,
+                "target": 152,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "117_22",
+                "pair": "California_California",
+                "source": 117,
+                "target": 22,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "118_197",
+                "pair": "Arizona_Arizona",
+                "source": 118,
+                "target": 197,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "119_158",
+                "pair": "New Mexico_New Mexico",
+                "source": 119,
+                "target": 158,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "120_114",
+                "pair": "California_California",
+                "source": 120,
+                "target": 114,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "121_131",
+                "pair": "Arizona_New Mexico",
+                "source": 121,
+                "target": 131,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "122_158",
+                "pair": "New Mexico_New Mexico",
+                "source": 122,
+                "target": 158,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "123_7",
+                "pair": "California_Nevada",
+                "source": 123,
+                "target": 7,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "124_225",
+                "pair": "Arizona_Arizona",
+                "source": 124,
+                "target": 225,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "125_173",
+                "pair": "New Mexico_New Mexico",
+                "source": 125,
+                "target": 173,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "126_129",
+                "pair": "California_California",
+                "source": 126,
+                "target": 129,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "127_106",
+                "pair": "Arizona_Arizona",
+                "source": 127,
+                "target": 106,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "128_57",
+                "pair": "New Mexico_New Mexico",
+                "source": 128,
+                "target": 57,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "129_150",
+                "pair": "California_California",
+                "source": 129,
+                "target": 150,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "130_225",
+                "pair": "Arizona_Arizona",
+                "source": 130,
+                "target": 225,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "131_93",
+                "pair": "New Mexico_New Mexico",
+                "source": 131,
+                "target": 93,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "132_174",
+                "pair": "California_California",
+                "source": 132,
+                "target": 174,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "133_226",
+                "pair": "Arizona_Arizona",
+                "source": 133,
+                "target": 226,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "134_81",
+                "pair": "New Mexico_New Mexico",
+                "source": 134,
+                "target": 81,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "135_94",
+                "pair": "California_California",
+                "source": 135,
+                "target": 94,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "137_39",
+                "pair": "New Mexico_Nevada",
+                "source": 137,
+                "target": 39,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "138_120",
+                "pair": "California_California",
+                "source": 138,
+                "target": 120,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "139_243",
+                "pair": "Arizona_Arizona",
+                "source": 139,
+                "target": 243,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "140_128",
+                "pair": "New Mexico_New Mexico",
+                "source": 140,
+                "target": 128,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "141_126",
+                "pair": "California_California",
+                "source": 141,
+                "target": 126,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "142_232",
+                "pair": "Arizona_Arizona",
+                "source": 142,
+                "target": 232,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "143_104",
+                "pair": "New Mexico_New Mexico",
+                "source": 143,
+                "target": 104,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "144_78",
+                "pair": "California_California",
+                "source": 144,
+                "target": 78,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "145_194",
+                "pair": "Arizona_Arizona",
+                "source": 145,
+                "target": 194,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "146_143",
+                "pair": "New Mexico_New Mexico",
+                "source": 146,
+                "target": 143,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "147_211",
+                "pair": "California_Arizona",
+                "source": 147,
+                "target": 211,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "148_88",
+                "pair": "Arizona_Arizona",
+                "source": 148,
+                "target": 88,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "149_65",
+                "pair": "New Mexico_New Mexico",
+                "source": 149,
+                "target": 65,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "150_27",
+                "pair": "California_Nevada",
+                "source": 150,
+                "target": 27,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "151_178",
+                "pair": "Arizona_Arizona",
+                "source": 151,
+                "target": 178,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "152_110",
+                "pair": "New Mexico_New Mexico",
+                "source": 152,
+                "target": 110,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "153_138",
+                "pair": "California_California",
+                "source": 153,
+                "target": 138,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "154_100",
+                "pair": "Arizona_Arizona",
+                "source": 154,
+                "target": 100,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "155_29",
+                "pair": "New Mexico_New Mexico",
+                "source": 155,
+                "target": 29,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "156_2",
+                "pair": "California_California",
+                "source": 156,
+                "target": 2,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "157_210",
+                "pair": "Arizona_Arizona",
+                "source": 157,
+                "target": 210,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "158_41",
+                "pair": "New Mexico_New Mexico",
+                "source": 158,
+                "target": 41,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "159_120",
+                "pair": "California_California",
+                "source": 159,
+                "target": 120,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "160_178",
+                "pair": "Arizona_Arizona",
+                "source": 160,
+                "target": 178,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "161_101",
+                "pair": "New Mexico_New Mexico",
+                "source": 161,
+                "target": 101,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "162_189",
+                "pair": "California_Arizona",
+                "source": 162,
+                "target": 189,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "163_179",
+                "pair": "Arizona_Arizona",
+                "source": 163,
+                "target": 179,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "164_119",
+                "pair": "New Mexico_New Mexico",
+                "source": 164,
+                "target": 119,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "165_82",
+                "pair": "California_California",
+                "source": 165,
+                "target": 82,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "166_187",
+                "pair": "Arizona_Arizona",
+                "source": 166,
+                "target": 187,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "167_29",
+                "pair": "New Mexico_New Mexico",
+                "source": 167,
+                "target": 29,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "168_159",
+                "pair": "California_California",
+                "source": 168,
+                "target": 159,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "169_113",
+                "pair": "Arizona_New Mexico",
+                "source": 169,
+                "target": 113,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "170_1",
+                "pair": "New Mexico_New Mexico",
+                "source": 170,
+                "target": 1,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "171_114",
+                "pair": "California_California",
+                "source": 171,
+                "target": 114,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "172_212",
+                "pair": "Arizona_Arizona",
+                "source": 172,
+                "target": 212,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "173_55",
+                "pair": "New Mexico_Nevada",
+                "source": 173,
+                "target": 55,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "174_98",
+                "pair": "California_California",
+                "source": 174,
+                "target": 98,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "175_204",
+                "pair": "Arizona_Arizona",
+                "source": 175,
+                "target": 204,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "176_76",
+                "pair": "Arizona_Arizona",
+                "source": 176,
+                "target": 76,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "177_76",
+                "pair": "Arizona_Arizona",
+                "source": 177,
+                "target": 76,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "178_202",
+                "pair": "Arizona_Arizona",
+                "source": 178,
+                "target": 202,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "179_20",
+                "pair": "Arizona_Arizona",
+                "source": 179,
+                "target": 20,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "180_225",
+                "pair": "Arizona_Arizona",
+                "source": 180,
+                "target": 225,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "181_197",
+                "pair": "Arizona_Arizona",
+                "source": 181,
+                "target": 197,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "182_127",
+                "pair": "Arizona_Arizona",
+                "source": 182,
+                "target": 127,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "183_17",
+                "pair": "Arizona_New Mexico",
+                "source": 183,
+                "target": 17,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "184_197",
+                "pair": "Arizona_Arizona",
+                "source": 184,
+                "target": 197,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "185_201",
+                "pair": "Arizona_Arizona",
+                "source": 185,
+                "target": 201,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "186_110",
+                "pair": "Arizona_New Mexico",
+                "source": 186,
+                "target": 110,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "187_209",
+                "pair": "Arizona_Arizona",
+                "source": 187,
+                "target": 209,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "188_130",
+                "pair": "Arizona_Arizona",
+                "source": 188,
+                "target": 130,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "189_9",
+                "pair": "Arizona_New Mexico",
+                "source": 189,
+                "target": 9,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "190_201",
+                "pair": "Arizona_Arizona",
+                "source": 190,
+                "target": 201,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "191_131",
+                "pair": "Arizona_New Mexico",
+                "source": 191,
+                "target": 131,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "193_179",
+                "pair": "Arizona_Arizona",
+                "source": 193,
+                "target": 179,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "194_40",
+                "pair": "Arizona_Arizona",
+                "source": 194,
+                "target": 40,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "195_185",
+                "pair": "Arizona_Arizona",
+                "source": 195,
+                "target": 185,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "196_232",
+                "pair": "Arizona_Arizona",
+                "source": 196,
+                "target": 232,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "197_9",
+                "pair": "Arizona_New Mexico",
+                "source": 197,
+                "target": 9,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "198_0",
+                "pair": "Arizona_Arizona",
+                "source": 198,
+                "target": 0,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "199_76",
+                "pair": "Arizona_Arizona",
+                "source": 199,
+                "target": 76,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "200_236",
+                "pair": "Arizona_Arizona",
+                "source": 200,
+                "target": 236,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "201_232",
+                "pair": "Arizona_Arizona",
+                "source": 201,
+                "target": 232,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "202_224",
+                "pair": "Arizona_Arizona",
+                "source": 202,
+                "target": 224,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "203_227",
+                "pair": "Arizona_Arizona",
+                "source": 203,
+                "target": 227,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "204_92",
+                "pair": "Arizona_Arizona",
+                "source": 204,
+                "target": 92,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "205_244",
+                "pair": "Arizona_Arizona",
+                "source": 205,
+                "target": 244,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "206_244",
+                "pair": "Arizona_Arizona",
+                "source": 206,
+                "target": 244,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "207_226",
+                "pair": "Arizona_Arizona",
+                "source": 207,
+                "target": 226,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "208_240",
+                "pair": "Arizona_Arizona",
+                "source": 208,
+                "target": 240,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "209_187",
+                "pair": "Arizona_Arizona",
+                "source": 209,
+                "target": 187,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "210_100",
+                "pair": "Arizona_Arizona",
+                "source": 210,
+                "target": 100,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "211_194",
+                "pair": "Arizona_Arizona",
+                "source": 211,
+                "target": 194,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "212_181",
+                "pair": "Arizona_Arizona",
+                "source": 212,
+                "target": 181,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "213_249",
+                "pair": "Arizona_Arizona",
+                "source": 213,
+                "target": 249,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "214_148",
+                "pair": "Arizona_Arizona",
+                "source": 214,
+                "target": 148,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "215_109",
+                "pair": "Arizona_Arizona",
+                "source": 215,
+                "target": 109,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "216_191",
+                "pair": "Arizona_Arizona",
+                "source": 216,
+                "target": 191,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "217_190",
+                "pair": "Arizona_Arizona",
+                "source": 217,
+                "target": 190,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "218_181",
+                "pair": "Arizona_Arizona",
+                "source": 218,
+                "target": 181,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "219_180",
+                "pair": "Arizona_Arizona",
+                "source": 219,
+                "target": 180,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "220_214",
+                "pair": "Arizona_Arizona",
+                "source": 220,
+                "target": 214,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "221_184",
+                "pair": "Arizona_Arizona",
+                "source": 221,
+                "target": 184,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "222_4",
+                "pair": "Arizona_Arizona",
+                "source": 222,
+                "target": 4,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "223_244",
+                "pair": "Arizona_Arizona",
+                "source": 223,
+                "target": 244,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "224_230",
+                "pair": "Arizona_Arizona",
+                "source": 224,
+                "target": 230,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "225_182",
+                "pair": "Arizona_Arizona",
+                "source": 225,
+                "target": 182,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "226_12",
+                "pair": "Arizona_Arizona",
+                "source": 226,
+                "target": 12,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "227_209",
+                "pair": "Arizona_Arizona",
+                "source": 227,
+                "target": 209,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "228_139",
+                "pair": "Arizona_Arizona",
+                "source": 228,
+                "target": 139,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "229_154",
+                "pair": "Arizona_Arizona",
+                "source": 229,
+                "target": 154,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "230_195",
+                "pair": "Arizona_Arizona",
+                "source": 230,
+                "target": 195,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "231_136",
+                "pair": "Arizona_Arizona",
+                "source": 231,
+                "target": 136,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "232_8",
+                "pair": "Arizona_Arizona",
+                "source": 232,
+                "target": 8,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "233_245",
+                "pair": "Arizona_Arizona",
+                "source": 233,
+                "target": 245,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "234_103",
+                "pair": "Arizona_Arizona",
+                "source": 234,
+                "target": 103,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "235_142",
+                "pair": "Arizona_Arizona",
+                "source": 235,
+                "target": 142,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "236_209",
+                "pair": "Arizona_Arizona",
+                "source": 236,
+                "target": 209,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "237_169",
+                "pair": "Arizona_Arizona",
+                "source": 237,
+                "target": 169,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "238_203",
+                "pair": "Arizona_Arizona",
+                "source": 238,
+                "target": 203,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "239_56",
+                "pair": "Arizona_Arizona",
+                "source": 239,
+                "target": 56,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "240_29",
+                "pair": "Arizona_New Mexico",
+                "source": 240,
+                "target": 29,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "241_186",
+                "pair": "Arizona_Arizona",
+                "source": 241,
+                "target": 186,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "242_154",
+                "pair": "Arizona_Arizona",
+                "source": 242,
+                "target": 154,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "243_84",
+                "pair": "Arizona_Arizona",
+                "source": 243,
+                "target": 84,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "244_200",
+                "pair": "Arizona_Arizona",
+                "source": 244,
+                "target": 200,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "245_232",
+                "pair": "Arizona_Arizona",
+                "source": 245,
+                "target": 232,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "246_235",
+                "pair": "Arizona_Arizona",
+                "source": 246,
+                "target": 235,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "247_240",
+                "pair": "Arizona_Arizona",
+                "source": 247,
+                "target": 240,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "248_36",
+                "pair": "Arizona_Arizona",
+                "source": 248,
+                "target": 36,
+                "type": "edge"
+            }
+        },
+        {
+            "data": {
+                "id": "249_211",
+                "pair": "Arizona_Arizona",
+                "source": 249,
+                "target": 211,
+                "type": "edge"
+            }
+        }
+    ]
+}

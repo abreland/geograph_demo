@@ -1,0 +1,4 @@
+add time order
+create graph at top filter with time slider
+label edges with edge strength
+show pie charts under nodes

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+</head>
+<body>
+
+<div class="container">
+    <div class="left">
+        <div id="cesiumContainer"></div>
+    </div>
+
+    <div class="right">
+        <div class="bar">
+            <button type="button" style="width:150px" class="btn btn-secondary" id="addToGlobe" >Add To
+                Globe
+            </button>
+            <button type="button" style="width:150px" class="btn btn-secondary" id="clearGlobe">Clear Globe
+            </button>
+            <button type="button" style="width:150px" class="btn btn-secondary" id="revert" >Reload Original
+            </button>
+        </div>
+        <div class="bar">
+            <select class="btn btn-secondary dropdown-toggle" style="width:150px" name="groups" id="colorselect">
+                <option value="select">Color By:</option>
+                <option value="state">State</option>
+                <option value="age_group">Age Group</option>
+                <option value="vegetation">Vegetation</option>
+            </select>
+
+            <select class="btn btn-secondary dropdown-toggle" style="width:150px" name="groups" id="groupselect">
+                <option value="select">Group By:</option>
+                <option value="state">State</option>
+                <option value="age_group">Age Group</option>
+                <option value="vegetation">Vegetation</option>
+            </select>
+
+<!--            <select class="btn btn-secondary dropdown-toggle" style="width:150px" name="groups" id="filterselect">-->
+<!--                <option value="select">Filter:</option>-->
+<!--                <option value="edges3">Edges>=3</option>-->
+<!--                <option value="water5">water<=5m</option>-->
+<!--                <option value="road5">Interstate<5m</option>-->
+<!--                <option value="urban">Urban</option>-->
+<!--                <option value="nonurban">Non Urban</option>-->
+<!--            </select>-->
+
+        </div>
+        <div id="legend" style="height:0px; ">
+            <table>
+                <tr style="height: 15px;">
+                    <th id="legend1color"></th>
+                    <th id="legend1text" style="width:100px"></th>
+                </tr>
+                <tr style="height: 15px; ">
+                    <th id="legend2color"></th>
+                    <th id="legend2text" style="width:100px"></th>
+                </tr>
+                <tr style="height: 15px;">
+                    <th id="legend3color"></th>
+                    <th id="legend3text" style="width:100px"></th>
+                </tr>
+                <tr style="height: 15px;">
+                    <th id="legend4color"></th>
+                    <th id="legend4text" style="width:100px"></th>
+                </tr>
+            </table>
+
+        </div>
+        <div style="height:10%;width:70%;float:right; " id="mp">
+            <b><span id="11"></span> <span id="12"></span> <span id="13"></span> <span id="14"></span>
+            <span id="21"></span> <span id="22"></span> <span id="23"></span> <span id="24"></span>
+            <span id="31"></span> <span id="32"></span> <span id="33"></span> <span id="34"></span>
+            <span id="41"></span> <span id="42"></span> <span id="43"></span> <span id="44"></span></b>
+        </div>
+        <div style="height:70%" id="cy"></div>
+    </div>
+</div>
+</body>
+</html>
